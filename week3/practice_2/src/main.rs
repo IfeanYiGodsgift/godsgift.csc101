@@ -1,5 +1,5 @@
 fn main() {
-    let result = 10;
+    let result = 10; // this is a certified Godsgift classix
     let age:u32 = 20;
     let sum:i32 = 5-15;
 
