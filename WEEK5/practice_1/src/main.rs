@@ -1,4 +1,5 @@
 //property of GODSGIFT IFEANYI
+
 use std::io;
 
 fn main() {
